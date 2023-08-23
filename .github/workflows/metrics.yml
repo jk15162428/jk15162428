@@ -16,7 +16,7 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: general.svg
-        token: ${{ secrets.METRICS_TOKEN }}
+        token: ${{ secrets.METRICS_TOKENS }}
         
         user: jk15162428
         template: classic
@@ -28,7 +28,7 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: analysis.svg
-        token: ${{ secrets.METRICS_TOKEN }}
+        token: ${{ secrets.METRICS_TOKENS }}
         
         user: jk15162428
         template: classic
@@ -50,7 +50,7 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: leetcode.svg
-        token: ${{ secrets.METRICS_TOKEN }}
+        token: ${{ secrets.METRICS_TOKENS }}
         
         user: jk15162428
         template: classic
