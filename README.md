@@ -1,1 +1,3 @@
-![Metrics](/github-metrics.svg)
+![General](/general.svg)
+![Analysis](/analysis.svg)
+![leetcode](/leetcode.svg)
