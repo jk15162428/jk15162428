@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.13817412759958 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">303</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2837</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.24171952078929 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">304</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2838</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,17 +37,17 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.70372836218375 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="35.679973386560214 329"/>
                                     <text x="60" y="50" dominant-baseline="central">163</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1502</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1503</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.762820512820513 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">28</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="15.290064102564102 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">29</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/624</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x151</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x152</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x69</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x60</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x41</span></div>
@@ -71,8 +71,8 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x37</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Tree <span class="count">x36</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Tree <span class="count">x35</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x33</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x28</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x34</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x29</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Penalty for a Shop</div>
-                            <div class="date">29 Aug 2023</div>
+                            <div class="title">Minimum Replacements to Sort the Array</div>
+                            <div class="date">30 Aug 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Operations to Form Subsequence With Target Sum</div>
-                            <div class="date">27 Aug 2023</div>
+                            <div class="title">Minimum Penalty for a Shop</div>
+                            <div class="date">29 Aug 2023</div>
                         </div>
                     </div>
                 </section>
