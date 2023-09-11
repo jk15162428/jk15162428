@@ -1,6 +1,6 @@
 <p align = "center">
   <a href="https://github.com/jk15162428">
-    <img align="top" src="https://github.com/jk15162428/jk15162428/blob/master/general.svg" />
+    <img align="center" src="https://github.com/jk15162428/jk15162428/blob/master/general.svg" />
   </a>
 </p>
 <br>
