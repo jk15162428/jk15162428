@@ -37,16 +37,6 @@ jobs:
         plugin_followup_indepth: yes
         plugin_discussions: yes
         plugin_discussions_categories_limit: 8
-        
-    - name: LeetCode
-      uses: lowlighter/metrics@latest
-      with:
-        filename: leetcode.svg
-        token: ${{ secrets.METRICS_TOKENS }}
-        
-        user: jk15162428
-        template: classic
-        base: ""
         plugin_leetcode_limit_recent: 2
         plugin_leetcode_limit_skills: 10
         plugin_leetcode: yes
