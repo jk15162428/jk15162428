@@ -35,9 +35,8 @@ jobs:
         base: ""
         plugin_followup: yes
         plugin_followup_indepth: yes
-        plugin_leetcode_limit_recent: 2
         plugin_leetcode_limit_skills: 10
         plugin_leetcode: yes
-        plugin_leetcode_sections: solved, skills, recent
+        plugin_leetcode_sections: solved, skills
         plugin_leetcode_user: jk15162428
 
