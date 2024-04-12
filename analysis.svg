@@ -250,8 +250,8 @@
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x61</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x54</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x52</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x48</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x48</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x47</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x41</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x41</span></div>
                     </div>
