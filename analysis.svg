@@ -200,8 +200,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.89084293511218 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">450</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="44.990600363856885 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">451</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3298</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -227,8 +227,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.72788203753351 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">47</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.168900804289546 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">48</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/746</text>
                                 </svg>
                                 <span class="title">Hard</span>
