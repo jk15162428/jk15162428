@@ -244,7 +244,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x255</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x256</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x116</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x104</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x65</span></div>
